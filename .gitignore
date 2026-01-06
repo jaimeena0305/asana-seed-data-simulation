@@ -1,0 +1,9 @@
+Python:
+pycache/*.py[cod]*$py.class venv/.env
+
+Database:
+If you want to include the generated DB in GitHub, comment the line below
+output/asana_simulation.sqlite
+
+OS files:
+.DS_Store Thumbs.db
